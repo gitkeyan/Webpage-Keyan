@@ -1,0 +1,40 @@
+p {
+  margin-left: 21px;
+  margin-right: 21px;
+}
+
+.nav {
+  background-color: rgba(2, 2, 2, 0.66);
+  color: #ffffff;
+  list-style: none;
+  text-align: right;
+  padding: 11px 8px 12px 18px;
+}
+
+.nav > li {
+  display: inline-block;
+  padding: 0 16px 0 16px;
+}
+
+.nav > li > a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.nav > li > a:hover {
+  color: #c1c1c1;
+}
+
+.logo {
+  float: left;
+}
+
+.tag {  
+  font-family: Arial;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.skillType {
+  font-weight: bold;
+}
