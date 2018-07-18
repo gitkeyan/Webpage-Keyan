@@ -3,6 +3,10 @@ p {
   margin-right: 21px;
 }
 
+img {
+  vertical-align: middle;
+}
+
 .nav {
   background-color: rgba(2, 2, 2, 0.66);
   color: #ffffff;
@@ -26,8 +30,11 @@ p {
   color: #c1c1c1;
 }
 
-.logo {
+.logoLeft {
   float: left;
+}
+.logoRight {
+  float: right;
 }
 
 .tag {  
